@@ -46,7 +46,13 @@ const stepImages = [
   'https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&q=80&w=800',
   'https://images.unsplash.com/photo-1495521821757-a1efb6729352?auto=format&fit=crop&q=80&w=800',
   'https://images.unsplash.com/photo-1516714435131-44d6b64dc6a2?auto=format&fit=crop&q=80&w=800',
-  'https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&q=80&w=800'
+  'https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&q=80&w=800',
+  'https://images.unsplash.com/photo-1488477304112-4944851de03d?auto=format&fit=crop&q=80&w=800',
+  'https://images.unsplash.com/photo-1546548970-71785318a17b?auto=format&fit=crop&q=80&w=800',
+  'https://images.unsplash.com/photo-1518843875459-f738682238a6?auto=format&fit=crop&q=80&w=800',
+  // 'https://images.unsplash.com/photo-1601041973354-4f95b4d50aaa?auto=format&fit=crop&q=80&w=800',
+  // 'https://images.unsplash.com/photo-1532980400722-070bee1692e1?auto=format&fit=crop&q=80&w=800',
+  // 'https://images.unsplash.com/photo-1518843985006-65411fd7979?auto=format&fit=crop&q=80&w=800'
 ];
 
 const RecipeDetail = ({ recipe, stepImages, onCreateAnother }) => {
